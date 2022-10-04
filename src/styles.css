@@ -1,0 +1,57 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-image: radial-gradient(#ffa366, #ff471a);
+}
+.App {
+  width: 70%;
+  padding: 1rem;
+  margin: auto;
+  border: 3px solid whitesmoke;
+  text-align: left;
+  padding-top: 1rem;
+  margin-top: 3rem;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+.btn {
+  margin: 3px;
+  padding: 5px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  cursor: pointer;
+  background-image: radial-gradient(#ffa366, #ff471a);
+  font-family: "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
+
+.btn:hover {
+  border: 2px solid #ffa366;
+}
+
+.site1 {
+  height: 50%;
+  border: 3px solid whitesmoke;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.site2 {
+  height: 50%;
+  border: 3px solid whitesmoke;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
+hr {
+  color: whitesmoke;
+  border: 1px solid whitesmoke;
+}
